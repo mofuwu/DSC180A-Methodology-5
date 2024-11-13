@@ -1,5 +1,6 @@
 # Methodology Assignment 5, Task 2
 Sean Chan (swchan@ucsd.edu)
+
 Section: A03 
 Instructor: Rob Knight
 
